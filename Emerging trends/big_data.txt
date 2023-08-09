@@ -1,0 +1,9 @@
+Big data analytics
+
+definition: 
+terms: 
+features: 
+objectives:
+use cases: 
+techniques & tools: 
+ 
