@@ -1,0 +1,19 @@
+insert tab: 
+    tables group: 
+        - quick table through cells 
+        - insert table 
+
+
+
+        terms:
+            - Table 
+            - Four headed arrow 
+            - Two headed arrow 
+            - Resize 
+
+        design tab: 
+            - styles 
+            - borders 
+
+            
+        layout tab: 

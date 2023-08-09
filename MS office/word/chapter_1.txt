@@ -103,3 +103,10 @@ Home tab:
          2. Cut 
          3. Paste 
          4. Format painter 
+
+    Selection: 
+        - cursor selection [right click]
+        - arrow keys selection [shift button]
+        - word selection 
+        - sentence selection 
+        - paragraph selection 
