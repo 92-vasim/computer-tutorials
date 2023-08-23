@@ -1,9 +1,15 @@
-insert tab: 
-    tables group: 
+Insert tab: 
+    1. Tables group: 
         - quick table through cells 
         - insert table 
+            a. table size
+                - rows
+                - columns
 
-
+            b. autofit behaviour 
+                - fixed column width 
+                - autofit to content 
+                - autofit to window 
 
         terms:
             - Table 
@@ -14,6 +20,91 @@ insert tab:
         design tab: 
             - styles 
             - borders 
+                a. line style 
+                b. line weight 
+                c. line color 
+                d. border 
 
             
         layout tab: 
+            - rows & columns 
+            - merge 
+            - cell size 
+            - alignment 
+            
+
+        table selection: 
+            - cell selection 
+            - row selection 
+            - column selection 
+            - table selection 
+
+    2. Insert image:
+        - click on insert button 
+        - select location 
+        - click on image and hit insert or double click on image 
+
+        Pictrue format tab: 
+            - adjust 
+                a. remove background (it just can remove plane background)
+                b. corrections 
+                c. misc 
+
+            - picture styles 
+            - arrange 
+
+
+    3. Shapes:
+        
+        > Insert shape 
+        > Shape buttons: to resize the shape 
+        > Yellow button: to reshape the shape 
+
+
+        > Shape Format tab 
+
+    4. Smart Art 
+
+        > Smart Art Design tab 
+            - layout
+            - style 
+        > Format tab 
+
+    5. Chart 
+
+        > Chart design tab > Elements 
+
+            - Axes 
+            - Axes title 
+            - Chart title 
+            - Data labels 
+            - Legend 
+            - Data table 
+
+        > Format tab
+
+
+    6. Screenshot 
+
+    7. Link 
+
+    8. Comment 
+
+    9. Header 
+
+    10. Footer 
+
+    11. Page Number 
+
+    12. Text Box 
+
+    13. Symbol 
+
+    14. Drop Cap 
+
+    15. Equation 
+
+    16. Object 
+
+    17. Date Time 
+    
