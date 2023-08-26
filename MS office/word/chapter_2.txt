@@ -87,6 +87,7 @@ Insert tab:
     6. Screenshot 
 
     7. Link 
+        - right click on the file > properties > security tab > object name 
 
     8. Comment 
 
@@ -106,5 +107,11 @@ Insert tab:
 
     16. Object 
 
-    17. Date Time 
+    17. Date Time
+
+    18. Blank Page 
+
+    19. Cover Page 
+
+    20. Page Break  
     
