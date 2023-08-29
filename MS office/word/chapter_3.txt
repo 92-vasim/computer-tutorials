@@ -1,11 +1,11 @@
 Design tab: 
-    > Page background
+    -> Page background
         - Watermark 
         - Page color 
         - Page borders 
 
 Layout tab: 
-    > Page setup 
+    -> Page setup 
         - Margins:
             - Normal [1]
             - Narrow [0.5]
@@ -22,16 +22,16 @@ Layout tab:
         - Line numbers 
         - Hyphenation
 
-    > Paragraph (Indentation/Spacing)
-    > Arrange 
+    -> Paragraph (Indentation/Spacing)
+    -> Arrange 
 
 References tab: 
-    > Table of contents 
+    -> Table of contents 
         - Table 
         - levels 
         - update 
 
-    > Footnotes
+    -> Footnotes
         - Insert footnote 
         - Endnote 
 
