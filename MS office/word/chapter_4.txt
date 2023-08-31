@@ -1,0 +1,27 @@
+Mailings tab:
+
+    Mail -> Physical letter [message, letter]
+    E-mail -> Electronic letter [message, letter]
+
+    Example: Google -> gmail, microsoft -> outlook
+
+    Problem statement: 
+        Zahoor -> Principal 
+        Every month -> Students monthly fees -> Parents 
+        Mail -> 50,000 
+
+    Solution:
+        a. list [name, address]
+        b. Insert merge field 
+        c. Preview
+        d. Finish and merge 
+
+
+    -> Start Mail Merge Group:
+        -> Select recipients:
+            a. type a new list 
+            b. use existing list 
+
+        -> Preview results
+
+        -> Finish & Merge:
