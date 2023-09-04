@@ -25,3 +25,20 @@ Mailings tab:
         -> Preview results
 
         -> Finish & Merge:
+
+
+Review tab: 
+    -> Proofing:
+        a. spelling - red underline  
+        b. grammar - blue 
+        c. contextual mistake - blue line 
+
+    -> Language: Translation 
+    -> Tracking 
+    -> Compare 
+    -> Protect 
+
+View tab: 
+    -> Views 
+    -> Show 
+    -> Window 
