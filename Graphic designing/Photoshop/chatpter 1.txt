@@ -1,0 +1,57 @@
+Photoshop is a popular software application developed by Adobe Systems that is primarily used for editing and manipulating digital images and photographs. It provides a wide range of tools and features for tasks such as cropping, resizing, retouching, color correction, adding text, and creating various visual effects. Photoshop is widely used in graphic design, photography, and digital art to enhance, modify, or create images with precision and creativity.
+
+
+Photoshop:
+    1. Photoshop 7 (older versions)
+    2. Photoshop cs (lightweight application)
+    3. Photoshop cc 
+
+Home Intro 
+    1. Menu
+    2. Option bar (Property bar)
+    3. Tool bar
+    4. Create button 
+    5. Icon button 
+    6. Open button 
+    7. Layers 
+    8. Window menu 
+    9. Duplicate picture 
+
+(Photoshop 2020 cc)
+Create new (Button) :
+    Name: 
+    Height:
+    Width :
+    Pixels: 
+
+Picture is divided into inches, then inch is divided into pixels, 
+Resolution of picture depends on pixels
+
+ctrl + + = zoom in 
+ctrl + - = zoom out
+space + mouse left button = move picture 
+ctrl + D = To remove selection
+
+ctrl + delete = background color 
+alt + delete = foreground color 
+
+####################################
+
+
+Photoshop - 2
+1. Selection
+2. Copy, cut, paste
+    a. Ctrl + C, Ctrl + V 
+    b. Move tool 
+3. Transformation (Ctrl + t)
+4. Transform effect
+        >> Edit > Transform > Flip Horizontal 
+5. New canvas
+6. Selections:
+    a. New selection 
+    b. Add to selection 
+    c. Subtract from selection 
+    d. Intersect from selection 
+7. Duplicate 
+    a. Copy layer(Ctrl + J)
+    b. Alt + left click in mouse 

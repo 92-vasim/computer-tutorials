@@ -38,6 +38,10 @@ Review tab:
     -> Compare 
     -> Protect 
 
+Use cases: 
+    1. Book composing (Proofing)
+    2. Content share
+
 View tab: 
     -> Views 
     -> Show 
