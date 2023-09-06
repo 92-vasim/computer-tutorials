@@ -1,0 +1,27 @@
+Photoshop - 3 
+    1. Lasso tool
+            a. Click & Hold 
+            b. Drag 
+            c. Join two sides  
+    2. Polygonal Lasso tool 
+            a. Click & Leave 
+            b. Repeat going in direction 
+            c. Join two side when the circle is shown 
+    3. Magnetic Lasso tool 
+            a. Click first 
+            b. Keep going ahead 
+            c. Join two side when the circle is shown 
+
+Photoshop - 4
+    1. Pen tool 
+        a. Click and leave 
+        b. Join the sides 
+        c. Click on the line and leave, then click it to move 
+        d. Add new anchors using Add anchor point tool 
+    2. Add anchor point tool 
+    3. Paths 
+    4. Remove selection = Ctrl + D 
+    5. After selection, click right button 
+    6. Choose make selection option 
+    7. Set feather 
+    8. paste in layer 

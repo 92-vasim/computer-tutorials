@@ -1,0 +1,82 @@
+Photoshop - 3 
+    1. Lasso tool
+            a. Click & Hold 
+            b. Drag 
+            c. Join two sides  
+    2. Polygonal Lasso tool 
+            a. Click & Leave 
+            b. Repeat going in direction 
+            c. Join two side when the circle is shown 
+    3. Magnetic Lasso tool 
+            a. Click first 
+            b. Keep going ahead 
+            c. Join two side when the circle is shown 
+
+Photoshop - 4
+    1. Pen tool 
+        a. Click and leave 
+        b. Join the sides 
+        c. Click on line and leave, then click it to move 
+        d. Add new anchors using Add anchor point tool 
+    2. Add anchor point tool 
+    3. Paths 
+    4. Remove selection = Ctrl + D 
+    5. After selection, click right button 
+    6. Choose make selection option 
+    7. Set feather 
+    8. paste in layer 
+
+Photoshop - 5 
+
+    Layer menu > layer style > blending options
+    I) Blending options:
+    a. Blend modes 
+
+        1. Outer glow
+    
+
+    II) Select Inverse
+        Select menu > select inverse 
+    III) Gradient tool 
+        a. Setting 
+        b. Different colors 
+
+    IV) Magic wand tool
+        a. Tolerance value
+        b. Shift + Drag (Add selection) 
+        c. Alt + Drag (Minus selection)
+
+
+    V) Quick selection tool 
+        a. Click and Drag 
+        b. Alt + Drag (Minus selection)
+
+    VI) Background blur
+        Filter > Blur > Guassian blur 
+
+
+Photoshop - 6
+
+    I) Types of images:
+        1. JPEG: Joint Photographic Expert Group (JPG)
+        2. PSD: Photoshop Native Format (Photoshop Document)
+        3. BMP: Bitmap 
+        4. GIF: Graphic Interchange Format 
+        5. PNG: Photographic Network Group 
+
+    II) There are three methods to save a picture in Photoshop:
+        1. File --> Save (For PSD)
+        2. File --> Save as (For JPG)
+        3. File --> Save for web (JPG/PNG)
+            File > Export > Save for web 
+            1. JPG 
+            2. PNG 
+            3. WEB  
+
+    III) Clone tool:
+        1. Select tool  
+        2. Alt + rub = for sample colour 
+        3. Right click and increase point/brush size 
+        4. Rub in another place
+        5. Aligned will be unchecked in option bar
+        6. [] = increase & decrease brush size 
