@@ -1,0 +1,132 @@
+
+
+Marks card:
+    1. Roll no, student name, sub1, sub2, sub3, total 
+    2. Increment 
+    3. Sum function 
+
+Intro:
+    1. Quick access tool bar 
+    2. Title bar 
+    3. Menu bar 
+    4. Tabs 
+    5. Ribbon 
+    6. Groups 
+    7. Workbook (Book)
+    8. Sheets 
+    9. Scrolling bar 
+    10. Zooming option 
+    11. Name box 
+    12. Formula bar 
+    13. Column names 
+    14. Row number 
+    15. Total columns  = 16384
+    16. Total rows = 1048576
+    17. Active cell 
+    18. Cells 
+    19. Table format 
+
+Excel - 1:
+    1. Columns 
+    2. Rows 
+    3. Formula bar 
+    4. Name box 
+    5. Calculations 
+    6. Increment operations
+
+Excel - 2:
+    1. Function 
+    2. Formula 
+    3. Arithmetic operations 
+    4. Min 
+    5. Max 
+    6. Average 
+    7. Cell selection 
+    8. Difference between function and formula 
+
+Excel - 3:
+    Number group: 
+        1. General 
+        2. Number 
+        3. Currency 
+        4. Accounting 
+        5. Short date 
+        6. Long date 
+        7. Time 
+        8. Percentage 
+        9. Fraction 
+        10. Comma 
+        11. Symbol 
+        12. Decimal points 
+    
+    Styles:
+        Conditional Formatting:
+            1. Highlight cells rules:
+                a. Greater than 
+                b. Less than 
+                c. Equal to 
+                d. Text that contains 
+                e. Date occurring 
+                f. Duplicate values 
+                g. Between 
+
+            2. 
+
+Excel - 4
+    1. Some conditional formatting 
+    2. Format as table 
+    3. Cell styles 
+    4. Cells 
+        a. Insert 
+        b. Delete 
+        c. Format 
+    5. Editing 
+        a. Functions 
+        b. Clear 
+        c. Find 
+        d. Sort 
+
+Excel - 5 
+    Logical operations:
+        a. If formula 
+        syntax: =IF(logical_test,[value_if_true],[value_if_false])
+
+        b. Pass or Fail example 
+        syntax: =IF(C5>=70,"Pass","Fail")
+
+        c. Returns formula 
+        syntax: =IF(A1<100,A1*5%,A1*7%)
+
+        d. Nested If 
+        syntax: =IF(C6<70,"F",IF(C6<75,"D",IF(C6<85,"C",IF(C6<95,"B","A"))))
+
+        example: =IF(J13> 30, "Garmi hai", IF(J13<25, "Sardi hai", "Normal hai"))
+
+
+Excel - 6
+    a. If or 
+
+    b. If and 
+
+Excel - 7
+    Insert Tab:
+    > Chart 
+    > Bar chart 
+    > Pie chart 
+    > Line chart 
+
+    > Chart design 
+        >> Chart element 
+            a. Axes 
+            b. Axes titles 
+            c. Chart title 
+            d. Data labels 
+            e. Legend 
+            f. Data table 
+        >> Chart styles 
+        >> Switch row/column 
+        >> Select data 
+    > Format 
+
+Excel - 8 
+    

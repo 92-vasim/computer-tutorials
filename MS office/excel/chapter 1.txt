@@ -1,0 +1,59 @@
+Marks card:
+    1. Roll no, student name, sub1, sub2, sub3, total 
+    2. Increment 
+    3. Sum function 
+
+File types:
+    1. word = .doc
+    2. excel = .xlx, xlsx
+    3. powerpoint = .ppt 
+
+Workspace type:
+    1. Word = page 
+    2. Excel = sheet 
+    3. PowerPoint = slide 
+
+Use cases:
+    1. Data entry 
+    2. Reports
+    3. Transactions 
+    4. Whereever you use register 
+
+Intro:
+    1. Quick access tool bar 
+    2. Title bar 
+    3. Menu bar 
+    4. Tabs 
+    5. Ribbon 
+    6. Groups 
+    7. Workbook (Book)
+    8. Sheets 
+    9. Scrolling bar 
+    10. Zooming option 
+    11. Name box 
+    12. Formula bar 
+    13. Column names 
+    14. Row number 
+    15. Total columns  = 16384
+    16. Total rows = 1048576
+    17. Active cell 
+    18. Cells 
+    19. Table (Tabular) format 
+
+Excel - 1:
+    1. Columns 
+    2. Rows 
+    3. Formula bar 
+    4. Name box 
+    5. Calculations 
+    6. Increment operations
+
+Auto Increment:
+    -> Click on corner symbol and drag. 
+
+Basic Functions:
+    1. Sum
+    2. Average 
+    3. Min 
+    4. Max 
+    5. Count 
