@@ -25,3 +25,16 @@ Photoshop - 4
     6. Choose make selection option 
     7. Set feather 
     8. paste in layer 
+
+Photoshop - 5
+    1) Magic wand tool
+        a. Tolerance value
+        b. Shift + Drag (Add selection) 
+        c. Alt + Drag (Minus selection)
+
+
+    2) Quick selection tool 
+        a. Click and Drag 
+        b. Alt + Drag (Minus selection)
+
+    3) Inverse selection: Select menu > select inverse (After object selection)
