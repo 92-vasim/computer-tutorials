@@ -1,0 +1,46 @@
+Functions:
+    reference: https://exceljet.net/articles/101-excel-functions
+
+    A. Basic functions:
+        1. Sum 
+        2. Average 
+        3. Min 
+        4. Max 
+        5. Count 
+    
+
+    B. Logic functions:
+        reference: https://exceljet.net/functions/if-function
+
+        1. If - If(condition, [true statement], [false statement]) 
+        -> IF(K4<100, K4+K4*10%, K4+K4*15%) -> numerical example
+
+        2. Nested If - If(condition, [true statement], [false statement = If(condition, [true statement], [false statement])])
+
+        3. If And - IF(AND(G4>18, G4<28), "Allowed", "Not allowed") -> [Age example]
+
+        4. If Or - IF(OR(A1="red",A1="blue"),B1+10,B1) -> [Waiting]
+
+        5. If Not - IF(NOT(A1="red"), "Right", "Wrong") -> [Waiting]
+
+    C. Text functions:
+        1. Lower()
+        2. Upper()
+        3. Replace() 
+        4. Right() 
+        5. Left() 
+        6. Len() 
+        7. Find() 
+        8. Mid()
+
+    D. Date time functions:
+        1. Date()
+        2. Now()
+        3. Today()
+        4. Day()
+        5. Month()
+        6. Year()
+        7. Hour()
+        8. Minute()
+        9. Second()
+        10. Time() 

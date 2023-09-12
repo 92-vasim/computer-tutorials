@@ -1,0 +1,31 @@
+MS Word shortcut keys:
+    1. Ctrl + A = Select all  
+    2. Ctrl + B = Bold
+    3. Ctrl + C = Copy
+    4. Ctrl + D = (Object)->Duplicate, Font advance options
+    5. Ctrl + E = Align center
+    6. Ctrl + F = Navigation pane
+    7. Ctrl + G = Find & Replace
+    8. Ctrl + H = Find box
+    9. Ctrl + I = Italic
+    10. Ctrl + J = Justify
+    11. Ctrl + K = Hyperlink
+    12. Ctrl + L = Left alignment
+    13. Ctrl + M = Increase indent
+    14. Ctrl + N = New file 
+    15. Ctrl + O = Open file 
+    16. Ctrl + P = Print
+    17. Ctrl + Q = Decrease indent 
+    18. Ctrl + R = Right alignment
+    19. Ctrl + S = Save 
+    20. Ctrl + T = Hanging indent
+    21. Ctrl + U = Underline
+    22. Ctrl + V = Paste 
+    23. Ctrl + W = Close document
+    24. Ctrl + X = Cut
+    25. Ctrl + Y = Redo 
+    26. Ctrl + Z = Undo 
+
+    27. F12 = Save as 
+
+    

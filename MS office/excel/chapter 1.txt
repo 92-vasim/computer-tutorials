@@ -4,8 +4,8 @@ Marks card:
     3. Sum function 
 
 File types:
-    1. word = .doc
-    2. excel = .xlx, xlsx
+    1. word = .docx
+    2. excel = .xlx, .xlsx
     3. powerpoint = .ppt 
 
 Workspace type:
@@ -16,7 +16,7 @@ Workspace type:
 Use cases:
     1. Data entry 
     2. Reports
-    3. Transactions 
+    3. Transactions recording 
     4. Whereever you use register 
 
 Intro:
