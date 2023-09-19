@@ -12,10 +12,14 @@ Functions:
     B. Logic functions:
         reference: https://exceljet.net/functions/if-function
 
-        1. If - If(condition, [true statement], [false statement]) 
-        -> IF(K4<100, K4+K4*10%, K4+K4*15%) -> numerical example
+        1. If - If(condition, [true statement], [false statement])
+
+        -> =IF(G12>40, "Pass", "Fail")
+        -> =IF(K4<100, K4+K4*10%, K4+K4*15%) -> numerical example
 
         2. Nested If - If(condition, [true statement], [false statement = If(condition, [true statement], [false statement])])
+
+        -> =IF(G12>40, "Grmi hai", IF(G12<20, "Sardi hai", "Normal hai"))
 
         3. If And - IF(AND(G4>18, G4<28), "Allowed", "Not allowed") -> [Age example]
 
