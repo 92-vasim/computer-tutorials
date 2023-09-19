@@ -1,0 +1,160 @@
+Ms word:
+1. Document
+2. Page
+3. Reference tab
+4. Mailing tab 
+
+
+Ms excel:
+1. Workbook
+2. Sheet
+3. Formula tab
+4. Data tab
+
+
+Ms powerpoint:
+1. Presentation
+2. Slide
+3. Transition tab
+4. Animation tab
+5. Slideshow tab 
+
+
+Power point - 1 
+
+Power point is an application which is used to make presentations
+Purpose of using Power point to present ideas 
+
+MS office version: 
+    1. 2007
+    2. 2010 (Lab version)
+    3. 2013
+    4. 2016
+    5. 2019
+    6. 2021 (Class version)
+    7. 365 
+
+
+Intro of interface: 
+    1. Quick access tool bar 
+    2. Title bar 
+    3. Menu bar 
+    4. Tabs 
+    5. Ribbon 
+    6. Groups 
+    7. Tools/Commands/Options 
+    8. Scrolling bar 
+    9. Zooming bar 
+    10. Ruler 
+    11. Slides 
+    12. Sections 
+    13. PPT 
+
+Keyboard shortcuts:
+    1. Ctrl + C 
+    2. Ctrl + V 
+    3. Ctrl + X 
+    4. Ctrl + Z  
+    5. Ctrl + Y 
+
+Selection keys:
+    1. Shift + arrow keys 
+    2. Mouse buttons 
+
+Slides: 
+    1. New slide 
+    2. Layout 
+    3. Reset 
+    4. Slide types 
+    5. Sections 
+
+    Slide consists of Layout
+    Layout consists of text box and so on.
+
+    Text box: 
+        a. Resizing 
+        b. Rotating
+
+Power point - 2 
+    object (Shape, image, table, chart)
+    Design tab: 
+
+    -> Themes 
+    -> Variants 
+    -> Slide size 
+    -> Format background (Important)
+
+    Home tab: 
+    -> Shapes 
+        a. triangle
+        b. duplicate 4 traingles
+        c. arrange 
+        d. apply different colour
+        e. text 
+            1. select the object
+            2. right click and click on edit text option 
+            3. write the content
+
+        f. Group selection:
+            1) Ctrl + left click in mouse 
+
+PowerPoint - 3 
+    -> Insert tab 
+
+        -> Table 
+            a. Insert table 
+
+        -> Common operations:
+            1. Resize
+                # in this operations there are multiple cursors you will see 
+                a. Corner points 
+                b. Side points 
+
+            2. Selection:
+                a. Arrow keys 
+                b. Mouse 
+
+        -> Pictures
+            a. picture formats 
+
+        -> Text box 
+            a. Text effect 
+
+        -> Smartart 
+
+PowerPoint - 4
+
+    Insert tab:
+
+    Note: slide will be added where the cursor is put between the slides 
+
+        -> Chart 
+
+        -> Hyperlink
+
+        -> Comment 
+
+        -> Text box [Important]
+
+        -> Header & Footer 
+
+        -> WordArt 
+
+        -> Symbols 
+
+        -> Video, Audio, Screen recording [In upcoming class]
+
+
+PowerPoint - 5
+
+    Transition tab 
+    : Transition is an effect that is applied to a slide 
+    -> Styles 
+    -> Effect options 
+    -> F5 to play ppt 
+    -> ESC to stop ppt 
+    -> Duration  
+    -> After time 
+    -> Sound 
+    -> Apply to all 
+    -> On mouse click 
