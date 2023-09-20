@@ -1,2 +1,2 @@
-def sum(nums: int) -> int:
-    pass 
+name = input("What is your name: ")
+print(f"Hii {name}")

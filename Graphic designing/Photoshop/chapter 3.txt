@@ -1,0 +1,20 @@
+Passport size photo
+
+    -> size: 4.5x3.5
+    
+    Steps:
+    ==> Source pic: 
+        -> Photo 
+        -> Canvas [8x10] 
+        -> Orientation
+        -> Resolution [compare resolution]
+        -> If resolution is less, increase in source pic 
+        -> Selection tool 
+        -> Selection tool -> Fixed size [value, cm(width, height)]
+        -> Change image height and width [without constraint]
+        -> Move to canvas
+
+    ==> Canvas:
+        -> Can change scale [inches -> cm]
+        -> Alt + drag 
+        -> Merge layers [Ctrl + E]
