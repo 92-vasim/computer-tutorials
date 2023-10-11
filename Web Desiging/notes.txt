@@ -1,0 +1,26 @@
+1. Introduction
+2. Traditional - using notepad 
+3. VS Code 
+4. Basic structure of HTML
+    1. tag 
+    2. opening tag 
+    3. closing tag 
+    4. opening bracket 
+    5. closing bracket 
+    6. html 
+    7. head 
+    8. title 
+    9. body 
+    10. comments 
+
+5. h = heading 
+6. p = paragraph
+7. heading levels = 1:6
+
+
+h = 4, 6
+s = 100/per hour
+b = 10, 20 
+
+ 
+100*4*10% 

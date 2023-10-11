@@ -1,0 +1,106 @@
+CorelDRAW - 1
+
+CorelDRAW is an application that is used for creating designs & logos
+Drawing software = CorelDRAW, Illustrator
+
+Run command = coreldrw 
+coreldraw file extension = .cdr 
+
+
+CorelDRAW versions:
+    1. CorelDRAW 12
+    2. CorelDRAW 2022
+    3. CorelDRAW 4x to 8x 
+    4. CorelDRAW 7x 
+
+Intro of interface:
+1. Menu bar
+2. Standard tool bar
+3. Property bar
+4. Tool box
+5. Ruler/Scale
+6. Colour palette
+7. Scroll bar
+8. Status bar
+9. Righ click on top to insert menu bar 
+
+Window > Toolbars > all bars shown there
+
+Scrolling method: 
+    1. Scrolling wheel 
+
+Types of shortcut keys:
+    1. Combination keys (Ctrl + c, Ctrl + v)
+    2. Sequential keys (Alt, a, b, c)
+
+
+Use page for printing mostly
+Hide page from workspace:
+    1. View > Show > Page Border (Alt,v,h,p) (CorelDRAW 12)
+    2. View > page > Page Border (new version) (7x, 2022)
+
+Object colouring:
+    1. Left click on color palette = To fill object color 
+    2. Right click on color palette = To fill border color 
+
+    	1. Fill (Left click)
+        2. Outline colour (right click)
+
+Note: Bucket color should be none in status bar 
+
+Ctrl+z = undo 
+Ctrl+shift+z = redo 
+
+Note: Zooming level must be 100 atleast
+
+
+CorelDRAW - 2
+
+    HP logo 
+    tools: 
+        --> Rectangular tool (F6):
+            1. Click and drag
+
+        --> Interactive envelope tool(in blending tools):
+            1. Click on left center edge and drag it to inside of object 
+            2. drag to center
+
+        :>>> Duplicate the object = Ctrl + d/ + in numpad
+
+        :>>> Move object = arrow keys 
+            a. slow move with arrow keys 
+            b. speed move with shift and arrow keys 
+
+        :>>> Flip object using property bar 
+            a. object should be selected
+            b. click on mirror tool 
+
+        :>>> Types of text:
+            1. Artistic text (Click)
+            2. Paragraph text (Click and drag)
+            3. Covert to each other = (Ctrl + F8)
+        
+        :>>> Text:
+            a. Change case 
+
+        :>>> Object rotating:
+            a. click on center of object 
+            b. use arrow to rotate the object 
+
+        :>>> Selection:
+            1. Ctrl + a = to select all
+            2. Click, drag & cover all objects
+
+        :>>> Ctrl + g = Group
+
+        :>>> Screen adjustment:
+            F2 + click = zoom in 
+            F3 : zoom out 
+            F4 : fit on screen
+            F9 : full screen 
+            Mouse scrolling : zoom in & zoom out 
+        
+        :>>> File saving methods:
+            1. Ctrl + s = to save as cdr 
+            2. Ctrl + e = to save another picture extensions (JPEG, Bitmap or JPEG 2000)
+        

@@ -14,7 +14,7 @@ Functions:
 
         1. If - If(condition, [true statement], [false statement])
 
-        -> =IF(G12>40, "Pass", "Fail")
+        -> =IF(marks>40, "Pass", "Fail")
         -> =IF(K4<100, K4+K4*10%, K4+K4*15%) -> numerical example
 
         2. Nested If - If(condition, [true statement], [false statement = If(condition, [true statement], [false statement])])
@@ -48,3 +48,16 @@ Functions:
         8. Minute()
         9. Second()
         10. Time() 
+
+
+-> IF(
+    AND(E3>80, F3>80, G3>80), "A", 
+    IF(
+    AND(E3>60, F3>60, G3>60), "B", 
+    IF(
+    AND(E3<35, F3<35, G3<35), "F", "C"
+    )
+    )
+    )
+
+    If - If(condition, [true statement], [false statement])
