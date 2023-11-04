@@ -16,11 +16,3 @@
 5. h = heading 
 6. p = paragraph
 7. heading levels = 1:6
-
-
-h = 4, 6
-s = 100/per hour
-b = 10, 20 
-
- 
-100*4*10% 

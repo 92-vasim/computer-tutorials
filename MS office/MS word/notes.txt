@@ -2,31 +2,22 @@ MS Office
 Micro soft office 
 Types: 
     1. Application/Software
-    2. Office/Suite (installer)
-    3. Package (tally)
+    2. Office/Suite
+    3. Package 
 
 MS office: 
-1. word - documentation
-2. excel - data entry 
+1. word
+2. excel
 3. powerpoint
 4. access
-5. one drive - 5 gb 
+5. one drive 
 6. outlook
 7. skype
 8. teams 
 
 MS word:
     It is used for documentation.
-    Documentation: 
-    1. book composing 
-    2. letters 
-    3. email 
-    4. reports 
-    5. gift card 
-    6. invitation card 
-    7. cards 
-
-    Creating files, book composing, reports, documents and pdfs. 
+    Documentation: Creating files, reports, documents and pdfs. 
 
 Opening ms word using run command: 
 Start button + R = Run command 
@@ -51,9 +42,6 @@ Interface includes:
     7. Group 
     8. Page 
     9. Ruler (Scale)
-    10. Page layout - print layout
-
-    Menu>home>font>font style
 
 Ctrl + C = Copy
 Ctrl + X = Cut
@@ -62,21 +50,16 @@ Ctrl + Z = Undo
 
 File tab: 
     Save > Dialog box 
-            1. Select folder 
-            2. Name 
-            3. Click on save button 
+                    1. Select folder 
+                    2. Name 
+                    3. Click on save button 
     
-    Save as > 
-        - edit file type 
-        - edit file name 
-        - edit file location 
-
     New > Blank Document > Click 
     
     Open > Dialog box 
-            1. Select folder 
-            2. Check name 
-            3. Click on open button 
+                    1. Select folder 
+                    2. Check name 
+                    3. Click on open button 
 
 Home tab:
     Font group:
@@ -120,10 +103,3 @@ Home tab:
          2. Cut 
          3. Paste 
          4. Format painter 
-
-    Selection: 
-        - cursor selection [double/triple click]
-        - cursor selection [right/left click]
-        - arrow keys selection [shift button]
-        - word selection [shift and ctrl button]
-        - paragraph selection 

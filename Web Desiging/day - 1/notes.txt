@@ -1,0 +1,42 @@
+1. Tag 
+2. Opening tag 
+3. Closing tag 
+4. Opening bracket
+5. Closing bracket 
+6. Basic tags
+    a. html
+    b. head 
+    c. title 
+    d. body 
+
+7. Comments 
+8. Headings:
+    a. h1:h6
+
+9. Bold, Italic, Underline tags 
+10. Strong, small, big tags 
+11. Superscript, subscript tags 
+12. br(break), hr(horizontal) tags 
+13. Image tag 
+14. Anchor tag - hyperlink 
+15. Table 
+    a. table tag 
+    b. thead tag 
+    c. tbody tag 
+    d. tr tag 
+    e. th tag 
+    f. td tag 
+    g. caption tag 
+
+16. Listing
+    a. ol tag 
+    b. ul tag 
+    c. li tag 
+
+17. Form 
+    a. form tag 
+    b. input tag 
+    c. button 
+    d. option
+    e. select 
+    f. textarea 
